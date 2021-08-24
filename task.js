@@ -53,3 +53,6 @@ var flanker_task = {
     size: 3,
   },
 };
+
+/*タイムライン追加*/
+var timeline = [inst_flanker, flanker_task];
